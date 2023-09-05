@@ -1,4 +1,4 @@
-## Olá, sou a Bianca, universitária e estudante de tecnologia!
+## Sou a Bianca, universitária e estudante de tecnologia!
 <div align="center">
   <a href="https://github.com/BiancaB13">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaB13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
