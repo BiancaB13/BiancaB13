@@ -1,4 +1,4 @@
-## Sou a Bianca, universitária e estudante de tecnologia!
+## Sou a Bianca, estudante do Bacharelado em Ciências e Humanidades (UFABC)! meu maior interesse é a interseção entre economia e análise dados.
 <div align="center">
   <a href="https://github.com/BiancaB13">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaB13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
