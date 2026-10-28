@@ -1,7 +1,6 @@
 ## Sou a Bianca, estudante do Bacharelado em Ciências e Humanidades (UFABC) e técnica em informática pela FORTEC.
 <div align="center">
   <a href="https://github.com/BiancaB13">
-#<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BiancaB13&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiancaB13&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -18,8 +17,6 @@
   ##
  
 <div> 
- #<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  #<a href = "mailto:contact.biancatavares@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bianca-tavares-97032b233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
